@@ -7,5 +7,5 @@ To get started with the local setup follow the below steps:
 
 3. In the react directory 
 
-a. run "npm install"
-b. run "npm start"
+  a. run "npm install"
+  b. run "npm start"
